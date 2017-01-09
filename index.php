@@ -177,7 +177,7 @@ foreach($messages as $message){
 	<div class="row">
 		<div class="col-sm-3">PDF-Datei hochladen</div>
 		<div class="col-sm-9">
-		<input type="hidden" name="MAX_FILE_SIZE" value="300000" />
+		<input type="hidden" name="MAX_FILE_SIZE" value="4000000" />
 		<input name="userfile" type="file" /><br>
 		<small class="text-muted">Diese Datei wird mit dem Deckblatt versehen.</small>
 		</div>
